@@ -1,4 +1,4 @@
-name: dev-medellin/url_convert_frontend
+name: dev-medellin/url_converter_frontend
 
 on:
   push:
